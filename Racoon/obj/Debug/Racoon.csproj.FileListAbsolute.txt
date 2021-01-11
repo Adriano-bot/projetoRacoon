@@ -1,0 +1,14 @@
+C:\Users\ADRIANO\source\repos\Racoon\Racoon\bin\Debug\Racoon.exe.config
+C:\Users\ADRIANO\source\repos\Racoon\Racoon\bin\Debug\Racoon.exe
+C:\Users\ADRIANO\source\repos\Racoon\Racoon\bin\Debug\Racoon.pdb
+C:\Users\ADRIANO\source\repos\Racoon\Racoon\obj\Debug\Racoon.csprojAssemblyReference.cache
+C:\Users\ADRIANO\source\repos\Racoon\Racoon\obj\Debug\Racoon.frmLogin.resources
+C:\Users\ADRIANO\source\repos\Racoon\Racoon\obj\Debug\Racoon.Properties.Resources.resources
+C:\Users\ADRIANO\source\repos\Racoon\Racoon\obj\Debug\Racoon.csproj.GenerateResource.cache
+C:\Users\ADRIANO\source\repos\Racoon\Racoon\obj\Debug\Racoon.csproj.CoreCompileInputs.cache
+C:\Users\ADRIANO\source\repos\Racoon\Racoon\obj\Debug\Racoon.exe
+C:\Users\ADRIANO\source\repos\Racoon\Racoon\obj\Debug\Racoon.pdb
+C:\Users\ADRIANO\source\repos\Racoon\Racoon\obj\Debug\Racoon.frmMenu.resources
+C:\Users\ADRIANO\source\repos\Racoon\Racoon\obj\Debug\Racoon.frmNovoChamado.resources
+C:\Users\ADRIANO\source\repos\Racoon\Racoon\obj\Debug\Racoon.cadNovoUsuario.resources
+C:\Users\ADRIANO\source\repos\Racoon\Racoon\obj\Debug\Racoon.frmAlterarSenha.resources
